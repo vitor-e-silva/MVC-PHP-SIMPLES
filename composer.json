@@ -1,0 +1,15 @@
+{
+    "name": "html/mvc",
+    "description": "Mvc Criado por https://github.com/vitor-e-silva/",
+    "autoload": {
+        "psr-4": {
+            "Html\\Mvc\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vitor Gabriel E Silva"
+        }
+    ],
+    "require": {}
+}
